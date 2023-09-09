@@ -14,7 +14,6 @@
     padding: 0 10px; 
   }
   
-
   .nav-links {
     list-style: none;
     padding: 0;
@@ -31,7 +30,6 @@
     text-decoration: none;
   }
   
-  
   .btn {
     background-color: rgb(137, 237, 239);
     color: black; 
@@ -39,6 +37,6 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    border-radius: 5px;
+    
   }
   
